@@ -1,5 +1,4 @@
 import 'package:airbnb_redesign_ui/pages/dashboard.dart';
-import 'package:airbnb_redesign_ui/utils/constants.dart';
 import 'package:airbnb_redesign_ui/utils/helper.dart';
 import 'package:airbnb_redesign_ui/widgets/primary_button.dart';
 import 'package:airbnb_redesign_ui/widgets/register_form.dart';
