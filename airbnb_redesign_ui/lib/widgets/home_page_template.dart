@@ -75,13 +75,13 @@ class HomePageTemplate extends StatelessWidget {
                     color: Color.fromRGBO(64, 74, 106, 1),
                   ),
                 ),
-                FlatButton(
+                ElevatedButton(
                   onPressed: () {},
                   child: Text(
                     "Log In",
                     style: GoogleFonts.inter(
                       fontSize: 14.0,
-                      color: Constants.primaryColor,
+                      color: Colors.white,
                       fontWeight: FontWeight.w600,
                     ),
                   ),

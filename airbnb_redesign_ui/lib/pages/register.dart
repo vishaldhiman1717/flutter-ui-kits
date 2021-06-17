@@ -94,14 +94,14 @@ class Register extends StatelessWidget {
                           color: Color.fromRGBO(64, 74, 106, 1),
                         ),
                       ),
-                      FlatButton(
+                      ElevatedButton(
                         onPressed: () {},
                         child: Text(
                           "Log In",
                           style: GoogleFonts.inter(
                             fontWeight: FontWeight.w600,
                             fontSize: 14.0,
-                            color: Constants.primaryColor,
+                            color: Colors.white,
                           ),
                         ),
                       )
